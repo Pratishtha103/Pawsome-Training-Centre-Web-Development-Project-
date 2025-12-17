@@ -1,9 +1,11 @@
 PAWSOME TRAINING CENTRE
 WEB DEVELOPMENT PROJECT (PRATISHTHA)
+
 Introduction:
 "Pawsome Training Centre" is a fictional establishment dedicated to the well-being and training of pets. The webpage is structured to provide essential information and facilitate user interaction effectively.
 
 Home Page :home.html
+(#home.png)
 
 Banner and Navigation:
 
